@@ -1,0 +1,6 @@
+# gradle files
+.gradle
+build
+
+# ide files
+.idea
